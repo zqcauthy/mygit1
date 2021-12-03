@@ -12,5 +12,6 @@ package com.bjpowernode;
 public class test02 {
     public static void main(String[] args) {
         System.out.println("test02...");
+        System.out.println("c1客户端操作test02---test02...");
     }
 }
